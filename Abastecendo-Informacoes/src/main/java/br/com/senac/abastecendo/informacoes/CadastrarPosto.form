@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JDialogFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="70" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="nomeDoPostoJL" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="nomeDoPostoJTF" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="dieselJL" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="dieselJTF" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="bairroJL" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="bairroJTF" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="estadoJL" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="estadoJTF" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="aditivadaJL" min="-2" max="-2" attributes="0"/>
+                          <Component id="aditivadaJTF" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="comumJL" min="-2" max="-2" attributes="0"/>
+                          <Component id="comumJTF" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="cidadeJL" min="-2" max="-2" attributes="0"/>
+                          <Component id="cidadeJTF" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="ruaJL" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="ruaJTF" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="57" max="-2" attributes="0"/>
+                      <Component id="confirmarJB" min="-2" pref="120" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="70" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="voltarJB" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <Component id="voltarJB" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="26" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="nomeDoPostoJL" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="comumJL" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="nomeDoPostoJTF" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="comumJTF" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="dieselJL" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="dieselJTF" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="aditivadaJL" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="aditivadaJTF" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="cidadeJL" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="cidadeJTF" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="estadoJL" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="estadoJTF" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="bairroJL" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="bairroJTF" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="ruaJL" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="ruaJTF" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="confirmarJB" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="nomeDoPostoJL">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nome do Posto"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="nomeDoPostoJTF">
+    </Component>
+    <Component class="javax.swing.JLabel" name="comumJL">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Comum"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="comumJTF">
+    </Component>
+    <Component class="javax.swing.JLabel" name="dieselJL">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Diesel"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="dieselJTF">
+    </Component>
+    <Component class="javax.swing.JLabel" name="aditivadaJL">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Aditivada"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="aditivadaJTF">
+    </Component>
+    <Component class="javax.swing.JLabel" name="ruaJL">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Rua"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="ruaJTF">
+    </Component>
+    <Component class="javax.swing.JLabel" name="bairroJL">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Bairro"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="bairroJTF">
+    </Component>
+    <Component class="javax.swing.JLabel" name="cidadeJL">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Cidade"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="cidadeJTF">
+    </Component>
+    <Component class="javax.swing.JLabel" name="estadoJL">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Estado"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="estadoJTF">
+    </Component>
+    <Component class="javax.swing.JButton" name="confirmarJB">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Confirmar"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="confirmarJBActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="voltarJB">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Voltar"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="voltarJBActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
