@@ -1,30 +1,30 @@
 # Abastecendo_Informações
 
-MEMBROS DO GRUPO: Ezequiel Gaviraghi, Gabriel Hepper Borges Garcia, João Vítor Silva dos Santos, Paulo Willian Joner Cassel, Yan Müller
+<h1>MEMBROS DO GRUPO:</h1> <p>Ezequiel Gaviraghi, Gabriel Hepper Borges Garcia, João Vítor Silva dos Santos, Paulo Willian Joner Cassel, Yan Müller</p>
 
 <img src = "Log In.png">
-You will be able to Log In.
+<p> You will be able to Log In. </p>
 
 
 <img src = "Register User.png">
- If you don't have an account, you'll be able to create one.
+ <P> If you don't have an account, you'll be able to create one. </p>
  
 
 <img src = "Menu.png">
-you can choose a rout, listen to music, you also can change the settings of the app.
+<P> you can choose a rout, listen to music, you also can change the settings of the app. </p>
 
                      
 <img src = "Vehicle Informations.png">
-You can check your vehicles, you also can change and register a vehicle.
+<P> You can check your vehicles, you also can change and register a vehicle. </p>
 
                                  
 <img src = "Playlist.png">
-Everyone likes to listen to music while driving, rigth?
+<P> Everyone likes to listen to music while driving, rigth? </p>
 
                          
 <img src = "More.png">
-You will be able to check and change your profile. You can define a fixed rout, and you also can change your settings.
+<P> You will be able to check and change your profile. You can define a fixed rout, and you also can change your settings. </p>
 
                      
 <img src = "Register Gas Station.png">
-CadastrarPosto - Here, who is managing the app will have permission to register gas stations.
+<P> CadastrarPosto - Here, who is managing the app will have permission to register gas stations. </p>
