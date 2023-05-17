@@ -5,7 +5,7 @@ MEMBROS DO GRUPO: Ezequiel Gaviraghi, Gabriel Hepper Borges Garcia, João Vítor
 <img src = "Log In.png">
 You will be able to Log In.
 
-<img src = "Register User.png>
+<img src = "Register User.png">
  If you don't have an account, you'll be able to create one.
 
 <img src = "Menu.png">
